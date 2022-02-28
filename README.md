@@ -1,2 +1,2 @@
-# Famicom-NES-Cartidge-PCB
-Famicom&amp;NES Cartidge PCB
+
+Nintendo-Famicom-NES-Catridge-PCB
